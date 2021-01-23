@@ -1,0 +1,6 @@
+export const GET_POSTS_SUCESS ='GET_POSTS_SUCESS'
+export const GET_POSTS_FAIL = 'GET_POSTS_FAIL'
+
+export const SET_LOADING = 'SET_LOADING'
+
+export const CLEAR_ERROR = 'CLEAR_ERROR'
